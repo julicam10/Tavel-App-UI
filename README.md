@@ -1,6 +1,6 @@
 # travel_app
 
-This is a Travel UI :sunny: from Marcus Ng (on Youtube) I followed the video and did some changes
+This is a Travel UI in Flutter :sunny: from Marcus Ng (on Youtube) I followed the video and did some changes
 
 https://github.com/MarcusNg/flutter_travel_ui_starter
 
